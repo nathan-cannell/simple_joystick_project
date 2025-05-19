@@ -2,7 +2,7 @@
 
 Heres a photo of the project.
 
-<p align="center">
+<p align="left">
   <img src="media/square_led_array.png" width="200" />
 </p>
 
