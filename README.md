@@ -60,11 +60,9 @@ This project demonstrates how to control an 8x8 LED matrix using an Arduino and 
 
 ## Media
 
-- <p align="left">
+<p align="left">
   <img src="media/square_led_array.png" width="200" />
 </p>
-: Shows the hardware setup and matrix
-
 
 ---
 
@@ -77,7 +75,7 @@ MIT License
 ## Credits
 
 Project by Nathan Cannell.  
-Photo and video included for demonstration purposes.
+Photo and video included in media folder for demonstration purposes.
 
 ---
 
